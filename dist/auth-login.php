@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Login - Mazer Admin Dashboard</title>
+    <title>Login - Pet Care Depok</title>
 
     <link rel="shortcut icon" href="./assets/compiled/svg/favicon.svg" type="image/x-icon" />
     <link rel="shortcut icon"
@@ -21,8 +21,10 @@
         <div class="row h-100">
             <div class="col-lg-5 col-12">
                 <div id="auth-left">
-                    <div class="auth-logo">
-                        <a href="index.php"><img src="./assets/compiled/svg/logo.svg" alt="Logo" /></a>
+                    <div class="auth-logo" style="margin-bottom: 2rem;">
+                        <a href="index.php">
+                            <img src="../images/LogoPetCare.png" alt="Logo" style="width: 130px; height: 130px;"/>
+                        </a>
                     </div>
                     <h1 class="auth-title">Log in.</h1>
                     <p class="auth-subtitle mb-5">
